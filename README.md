@@ -2,7 +2,7 @@
 created: 2022-03-31 - 11:44
 status/tags: 
 ---
-# [[⚡ DP Postup vypracování]]
+# [[⚡ DP Postup vypracování]] [Postup vypracování](⚡DP/⚡ DP Postup vypracování.md)
 # Zadání
 Práce bude zaměřena na technologie pro tvorbu virtuální reality v rámci webového prostředí (např. WebXR, Three.js). Tyto technologie jsou podporovány na různých hardwarových a softwarových platformách, jejich funkcionalita se může v různých podmínkách lišit. Na základě srovnání dostupných technologiích bude vybrána technologie pro vytvoření vlastní vizualizace prostorových dat z vybrané aplikační oblasti. Vytvořená vizualizace bude následně uživatelsky evaluována a zhodnocena tak její funkcionalita.
 
