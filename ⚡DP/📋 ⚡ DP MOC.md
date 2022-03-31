@@ -7,7 +7,7 @@ status/tags:
 01 - [[⚡ DP Postup vypracování]]
 02 - [[⚡ DP - Rešerše]]
 03 - [[⚡DP - Otázky a nápady]]
-04 - [[⚡To Watch - Rešerš]]
+04 - [[⚡To Watch]]
 
 
 

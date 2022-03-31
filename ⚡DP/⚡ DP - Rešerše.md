@@ -8,8 +8,14 @@ status/tags:
 - [x] [[@rzeszewskiUsabilityWebXRVisualizations2021]]
 - [ ] [[@seoInteroperableInformationModel2020]]
 
+
+# 3D
+- [x] [[@dusekVIZUALIZACEPROSTOROVUCHDAT]]
+
 # Studentské práce
 - [ ] [[@kvardaMoznostiNizkonakladovychProstredku2018]]
+- [ ] [[@kvardaVirtualniRealitaJako2020]]
+
 
 
 
