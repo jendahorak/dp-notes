@@ -6,6 +6,8 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 
 **Road map vypracování (brain storming možného postupu a problémů které mohou nastat)** - [Postup vypracování](https://github.com/jendahorak/dp-notes/blob/46644180d3fe1117e379ccbd919cba05d1ea9ec5/%E2%9A%A1DP/%E2%9A%A1%20DP%20Postup%20vypracov%C3%A1n%C3%AD.md)
 
+**Nápady k řešení a případné otázky** [Otázky a Nápady](https://github.com/jendahorak/dp-notes/blob/fe30f516260d9fc2cf8cb9ef42c019dddb98b65c/%E2%9A%A1DP/%E2%9A%A1DP%20-%20Ot%C3%A1zky%20a%20n%C3%A1pady.md)
+
 **Oficiální zadání** - [Zadání](https://github.com/jendahorak/dp-notes/blob/32b67f1bdff8068e72f35b74c9206cef12cc7153/%E2%9A%A1DP/%E2%9A%A1%20DP%20-%20Zad%C3%A1n%C3%AD.md)
 
 # Co právě probíhá?
