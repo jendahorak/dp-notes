@@ -1,4 +1,4 @@
-Pro tvorbu zápisů použivám software [_Obsidian_](https://github.com/obsidianmd/obsidian-releases.git), který vešekeré zápisy ukládá jako .md soubor. Mám jej propojen i s citačním manažerem zde je možné jedndušše uploadovat změny. Formátování je v dokumentech občas nesmyslné (používání [[]]) protože takto _Obsidian_ interně linkuje dané záznamy. 
+Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidianmd/obsidian-releases.git), který veškeré zápisy ukládá jako .md soubor. Mám jej propojen i s citačním manažerem zde je možné jednoduše uploadovat změny. Formátování je v dokumentech občas nesmyslné (používání [[]]) protože takto _Obsidian_ interně linkuje dané záznamy. 
 
 # Hlavní dokumenty
 
@@ -16,5 +16,4 @@ Pro tvorbu zápisů použivám software [_Obsidian_](https://github.com/obsidian
 
 # Co zatím je hotovo ?
 - základní osobní přehled o technologiích
-- anotovaná literatura - pouze v .md ()
-
+- anotovaná literatura - pouze v .md 
