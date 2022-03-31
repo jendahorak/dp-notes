@@ -11,10 +11,9 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 # Co právě probíhá?
 - rešerše literatury ze zadání a na ní navazujících konceptů
 - průchod komplexním JavaScript kurzem a "testování" daných knihoven a API - testování codebase z - [[@rzeszewskiUsabilityWebXRVisualizations2021a]]
-- pokus o domluvu HMD na ZŠ Děčín
-- rozhodování o způsobu vizualizace
+- testovací HMD - pokus o domluvu HMD na ZŠ Děčín - konzultace? 
+- rozhodování o způsobu vizualizace - konzultace?
 
 # Co zatím je hotovo ?
 - základní osobní přehled o technologiích
 - základní rozepsání postupu vypracování
-- postupně anotovaná literatura 

@@ -14,17 +14,6 @@ Pro naplnění hlavního cíle diplomové práce postupujte přes následující
 4. Uživatelské ověření vytvořené aplikace 
 5. Diskuse zjištěných výsledků a závěr 
 
-
-# Co právě probíhá?
-- rešerše literatury ze zadání a na ní navazujících konceptů
-- průchod komplexním JavaScript kurzem a "testování" daných knihoven a API - testování codebase z - [[@rzeszewskiUsabilityWebXRVisualizations2021a]]
-- pokus o domluvu HMD na ZŠ Děčín
-- rozhodování o způsobu vizualizace
-
-# Co zatím je hotovo ?
-- základní osobní přehled o technologiích
-- anotovaná literatura - pouze v .md ()
-
 # Vypracování
 ## K01 - Popis a analýza technologií pro tvorbu virtuální reality v rámci webového prostředí
 

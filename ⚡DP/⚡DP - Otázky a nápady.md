@@ -5,16 +5,16 @@ status/tags:
 # ✏ [[⚡DP - Otázky a nápady]]
 
 # Otázky
-- Co jsou principy virtuální reality?
-- Computing v rámci input jednotky? - Oculus, Smartphony - Google cardbox aj ?
+- Co je myšleno principy virtuální reality?
+- HMD na Masarykově univerzitě
 
 
 # Nápady
 ## Možnosti využití
-- viz. prez. [[📒 3D Modelování a vizualizace]]
-- výzkum metody loci - memorizování pomocí prostoru - https://www.verywellhealth.com/will-the-method-of-loci-mnemonic-improve-your-memory-98411
-- voxel terrain - jeskyně a jiné útvary, které DMR není schopno zobrazit
-*- uzemní plánování - KAM - 3D model - Prohlížení nových 3D modelů v kontextu developovaných oblastí - v rámci práce!!* 
+1) uzemní plánování - KAM - 3D model - Prohlížení nových 3D modelů v kontextu developovaných oblastí
+2) výzkum metody loci - memorizování pomocí prostoru - https://www.verywellhealth.com/will-the-method-of-loci-mnemonic-improve-your-memory-98411
+3) inventarizace budov Masarykovi univerzity - propojení s https://kompas.muni.cz/auth/BMA01N01/@1848516.37,6308621.95,z20
+4) voxel terrain - jeskyně a jiné útvary, které DMR není schopno zobrazit
 
 
 # Problémy - co se musí vyřešit

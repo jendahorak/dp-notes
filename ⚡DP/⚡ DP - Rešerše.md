@@ -6,15 +6,21 @@ status/tags:
 # Literatura ze zadání
 - [x] [[@stachonVirtualImmersiveEnvironments2020]]
 - [x] [[@rzeszewskiUsabilityWebXRVisualizations2021]]
-- [ ] [[@seoInteroperableInformationModel2020]]
+- [ ] [[@seoInteroperableInformationModel2020]] - rozpracováno
+- [ ] [[@laksonoUtilizingGameEngine2019]]
+- [ ] [[@butcherVRIAWebBasedFramework2021]]
+- [ ] [[@stalsStateXRResearch2020]]
+- [ ] [[@sterbaSelectedIssuesExperimental2015]]
+
 
 
 # 3D
 - [x] [[@dusekVIZUALIZACEPROSTOROVUCHDAT]]
 
 # Studentské práce
-- [ ] [[@kvardaMoznostiNizkonakladovychProstredku2018]]
+- [x] [[@kvardaMoznostiNizkonakladovychProstredku2018]]
 - [ ] [[@kvardaVirtualniRealitaJako2020]]
+- [ ] [[@yooInteroperableInformationModel2020]]
 
 
 
