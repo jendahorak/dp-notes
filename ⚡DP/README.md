@@ -16,4 +16,5 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 
 # Co zatím je hotovo ?
 - základní osobní přehled o technologiích
-- anotovaná literatura - pouze v .md ()
+- základní rozepsání postupu vypracování
+- postupně anotovaná literatura 
