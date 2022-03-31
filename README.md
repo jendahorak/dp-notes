@@ -8,3 +8,13 @@ Pro tvorbu zápisů použivám software [_Obsidian_](https://github.com/obsidian
 
 **Oficiální zadání** - [Zadání](https://github.com/jendahorak/dp-notes/blob/32b67f1bdff8068e72f35b74c9206cef12cc7153/%E2%9A%A1DP/%E2%9A%A1%20DP%20-%20Zad%C3%A1n%C3%AD.md)
 
+# Co právě probíhá?
+- rešerše literatury ze zadání a na ní navazujících konceptů
+- průchod komplexním JavaScript kurzem a "testování" daných knihoven a API - testování codebase z - [[@rzeszewskiUsabilityWebXRVisualizations2021a]]
+- pokus o domluvu HMD na ZŠ Děčín
+- rozhodování o způsobu vizualizace
+
+# Co zatím je hotovo ?
+- základní osobní přehled o technologiích
+- anotovaná literatura - pouze v .md ()
+
