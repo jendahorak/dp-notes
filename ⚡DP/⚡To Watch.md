@@ -3,6 +3,8 @@ created: 2022-03-31 - 11:46
 status/tags: 
 ---
 # 📚 [[⚡To Watch]]
+# Koncepty
+- state diagram
 
 
 # Discord - WebXR - aj. projít skupiny 

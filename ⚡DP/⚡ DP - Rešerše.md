@@ -6,7 +6,7 @@ status/tags:
 # Literatura ze zadání
 - [x] [[@stachonVirtualImmersiveEnvironments2020]]
 - [x] [[@rzeszewskiUsabilityWebXRVisualizations2021]]
-- [ ] [[@seoInteroperableInformationModel2020]] - rozpracováno
+- [x] [[@seoInteroperableInformationModel2020]] - rozpracováno
 - [ ] [[@laksonoUtilizingGameEngine2019]]
 - [ ] [[@butcherVRIAWebBasedFramework2021]]
 - [ ] [[@stalsStateXRResearch2020]]
