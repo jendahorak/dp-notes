@@ -8,6 +8,8 @@ status/tags:
 02 - [[⚡ DP - Rešerše]]
 03 - [[⚡DP - Otázky a nápady]]
 04 - [[⚡To Watch]]
+05 - [[⚡ Poznámky k akademické metodice]]
+
 
 
 # Utils

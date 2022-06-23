@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=gAzIkjkJSzM - Web AR tutorial - WebXR API
 
 ## JS
 https://www.youtube.com/watch?v=q5J5ho7YUhA - Intro do Firebase
-
+https://github.com/EbookFoundation/free-programming-books - INDEX CS tutoriálů a knih
 
 
 ---

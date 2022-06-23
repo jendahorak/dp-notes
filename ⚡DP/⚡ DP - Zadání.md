@@ -3,6 +3,7 @@ created: 2022-03-31 - 11:44
 status/tags: 
 ---
 # [[⚡ DP - Zadání]]
+# Webová virtuální realita: nový způsob prezentace geoprostorových dat
 
 # Zadání
 Práce bude zaměřena na technologie pro tvorbu virtuální reality v rámci webového prostředí (např. WebXR, Three.js). Tyto technologie jsou podporovány na různých hardwarových a softwarových platformách, jejich funkcionalita se může v různých podmínkách lišit. 

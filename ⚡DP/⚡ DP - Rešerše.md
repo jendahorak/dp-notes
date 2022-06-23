@@ -16,6 +16,8 @@ status/tags:
 
 # 3D
 - [x] [[@dusekVIZUALIZACEPROSTOROVUCHDAT]]
+- [x] [[@hermanModerniKartografickeMetody2011]]
+- [x] [[@hermanVizualizace3DModelu2014]]
 
 # Studentské práce
 - [x] [[@kvardaMoznostiNizkonakladovychProstredku2018]]
@@ -23,10 +25,14 @@ status/tags:
 - [ ] [[@yooInteroperableInformationModel2020]]
 
 
+# Videa
+[[@microsoftdeveloperUnrealEngineOpenXR2022]]
+[[@lowlevellearningWhatWebAssemblyIt2022]] - WASM vs JS
+[[@dougmilfordRust3DGraphics2019]] - Graphical tech. options for browsers 
+ 
 
-
-
-
+# Další
+**Mixed reality** - [[@qianw211WhatMixedReality2022]]
 
 # Resources
 

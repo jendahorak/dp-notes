@@ -39,7 +39,7 @@ Přehled používané terminologie
 
 # ch02 Úvod do VE a IVE
 *Historie a rozdělení VE a IVE*
-Prvním z významých byl CAVE Automatic Virtual Enviroment. Dále se VE rozvíjeli díky rozvoji v oblasti mobilních telefonů a jiných low-cost VR přístrojů, čímž také vznikla stabilní technologická základna pro AR. Vývoj VR technologií je velice dynamický a tudíž se nástroje rychle mění. Charakterizovat je je možné pomocí 4 základních parametrů ([[@shermanUnderstandingVirtualReality2002]]): 1) virtuální svět, 2) imerze, 3) smyslová zpětná vazba, 4) interakce. Tyto parametry by měly být nezávislé na daném technologickém provedení. Dalším z velice významných faktorů definující VR je úroveň realističnosti jakou je VE vizualizováno, což ovlivňuje úroveň imerze a efektivity uživatele interagovat v rámci VE. 
+Prvním z význých byl CAVE Automatic Virtual Enviroment. Dále se VE rozvíjeli díky rozvoji v oblasti mobilních telefonů a jiných low-cost VR přístrojů, čímž také vznikla stabilní technologická základna pro AR. Vývoj VR technologií je velice dynamický a tudíž se nástroje rychle mění. Charakterizovat je je možné pomocí 4 základních parametrů ([[@shermanUnderstandingVirtualReality2002]]): 1) virtuální svět, 2) imerze, 3) smyslová zpětná vazba, 4) interakce. Tyto parametry by měly být nezávislé na daném technologickém provedení. Dalším z velice významných faktorů definující VR je úroveň realističnosti jakou je VE vizualizováno, což ovlivňuje úroveň imerze a efektivity uživatele interagovat v rámci VE. 
 
 Na kvalitu imerze mají vliv další faktory: 1) technické parametry - způsob vizualizace (stereoscopic), obnovovací frekvenci, úrovni realismu, způsob pohledu (field of view), tracking. [[CV16_Fig2.png]]
 
@@ -47,9 +47,8 @@ Na kvalitu imerze mají vliv další faktory: 1) technické parametry - způsob 
 GeoVE - MacEachren et al. (1999)
 popis VE - immersion, interactivity, information density, intelligence - obdobně jako [[@shermanUnderstandingVirtualReality2002]], [[4-is-of-VE.png]]
 
-
-
 ## CVE - collaborative virtual enviroment - VRChat?
+- distribuované virtuální prostředí 
 ## VR sytem architecture
 [components of a VR system](https://gistbok.ucgis.org/sites/default/files/CV16_Fig3.png)
 
@@ -59,7 +58,7 @@ Monocular a Binocular cues
 1) static - lighting, size, occlusion/interposition, relative size of objects, linear perspective, texture gradients, aerial perspective
 2) dynamic - motion parallax, also referred to as kinetic depth
 **Binocular**
-1) *binocular disparity, convergence*  ?
+1) *binocular disparity, convergence*  
 
 Jen monokulární se nazývají pseudo 3D, real 3D využívá obou. Z informačního pohledu oba přístupy mohou být považovány za ekvivalentní, ale každý využívá jiného vjemového kognitivního procesu.  
 [depth cues of 3d environments](https://gistbok.ucgis.org/sites/default/files/CV16_Fig4.png)
@@ -73,7 +72,7 @@ Jen monokulární se nazývají pseudo 3D, real 3D využívá obou. Z informačn
 ### Input
 Velice důležitý je pohyb - motion capture. Různé způsoby sledování pohybu: akustické, elektromagnetické, mechanické. Nejvíce využívané je optické - kdy jsou sledovány specifické reflexní body na uživateli. Důležitou součástí je IMU (Inertial measuring unit) - sledující rychlost akcelerace a změny v rotaci. IMU nejsou v "low-cost" řešeních. 
 
-Sledování pohybu je často kombinováno s různými specifickými vstupními nástroji, které umožňují různé úrovně [[DoF - degrees of freedom]]. Tradiční desktop platformy umožňují pouze 2 DoF, pohyb v 3D je pak nahrazován klavesovými zkratkami, tedy kombinací tradičních vstupů (přepínání mezi módy pohybu atd.) herní kontrolery umožňují více. 
+Sledování pohybu je často kombinováno s různými specifickými vstupními nástroji, které umožňují různé úrovně [[DoF - degrees of freedom]]. Tradiční desktop platformy umožňují pouze 2 DoF, pohyb v 3D je pak nahrazován klávesovými zkratkami, tedy kombinací tradičních vstupů (přepínání mezi módy pohybu atd.) herní kontroléry umožňují více. 
 
 ### Výpočetní jednotka
 Úrovně renderování mají vysoký dopad na úroveň imerze ve VE (vysoká snímková frekvence a nízká [[latence]]) . Procesingové jednotky jsou propojeny s vstupními a výstupními technologiemi. [[⚡DP - Otázky a nápady]]

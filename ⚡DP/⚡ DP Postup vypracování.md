@@ -36,6 +36,11 @@ Jsou vybrané aplikace vhodné pro potřeby kartografie - geoinformatiky?
 - [ ] XR na webu - technologie, vývoj aktuální stav, specifika, předešlé případové studie -- tabulky kompatibilit HW, prohlížeče, data
 - [ ] Zvolit tech stack -- textové odůvodnění zvolených technologií vhodných pro daný use-case
 
+
+### Vypracování
+**Seznam technologií** 
+https://docs.google.com/spreadsheets/d/1daRg5jo2H6Z3chwf-ZCmyoM8zfnfrb1Yx4x3YoZpcME/edit?usp=sharing
+
 ### Výstupy
 - [ ] Převážně text objasňující situaci ohledně technologií 
 - [ ] odůvodněný soubor technologií pro vlastní vizualizaci (spolu s následující kapitolou)

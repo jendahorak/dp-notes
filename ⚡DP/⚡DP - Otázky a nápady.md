@@ -6,7 +6,7 @@ status/tags:
 
 # Otázky
 - Co je myšleno principy virtuální reality?
-- HMD na Masarykově univerzitě
+- 3D webové služby jejich aktuální stav? 
 
 
 # Nápady
@@ -15,6 +15,12 @@ status/tags:
 2) výzkum metody loci - memorizování pomocí prostoru - https://www.verywellhealth.com/will-the-method-of-loci-mnemonic-improve-your-memory-98411
 3) inventarizace budov Masarykovi univerzity - propojení s https://kompas.muni.cz/auth/BMA01N01/@1848516.37,6308621.95,z20
 4) voxel terrain - jeskyně a jiné útvary, které DMR není schopno zobrazit
+5) 3D katastr nemovitostí - Holandsko - CityJSON - jak to je v česku?
+
+
+# Poznámky
+K rozhodování jakou vizualizaci dělat zahrnout argument nad [[@qianw211WhatMixedReality2022]] - Augmented vs VR co se víc hodí na geodata ? - AR terénní úpravy a jiné změny, územní plánování, výstavba aj. 
+VR - méně?? 
 
 
 # Problémy - co se musí vyřešit
