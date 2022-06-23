@@ -8,6 +8,13 @@ ZOTERO: [See in Zotero](zotero://select/items/@stachonVirtualImmersiveEnvironmen
 STATUS: #reference
 TAGS:  
 # Virtual and Immersive Environments
+
+# **#TODO**s
+- [ ] vytahat literaturu o využití
+- [ ] vypsta hw technologie
+- [ ] vypsat sw technologie do tabulky ohodnotit, které stojí za to použít
+- [ ] data?
+
 # Shrnutí
 1) stručná historie virtuální reality a imerzních prostředí
 2) představení obecného přístupu k popisu VE
@@ -79,20 +86,20 @@ Sledování pohybu je často kombinováno s různými specifickými vstupními n
 
 ### Výstupní hardware
 [[type_of_display_devices.png]]
-Možné dělit podle smyslu na který fungují. Hlavní jsou vizualizační, které je možné dělit na tradiční displaye, semi-imerzivní systémy a HMD. Tradiční monitory poskytují pouze monokulární vodítka a nejsou tedy příliš imerzivní. HMD jsou nejvíce imerzivní technologií. HMDs je možné dělit dle výpočetní síly a mobility. 
+Možné dělit podle smyslu na který fungují. Hlavní jsou vizualizační, které je možné dělit na tradiční displeje, semi-imerzivní systémy a HMD. Tradiční monitory poskytují pouze monokulární vodítka a nejsou tedy příliš imerzní. HMD jsou nejvíce imerzní technologií. HMDs je možné dělit dle výpočetní síly a mobility. 
 Mobilní HMDs - Google Cardboard, Google Daydream, Lenovo Mirage Solo, Oculus Go, and Samsung GearVR. -- AR a spolu se smartphonem
 Stacionární HMDs - Fove0, HTC Vive, PlayStation VR, and Oculus Rift -- detailní imerze 
 
-*Njevhodnější output zařízení by mělo být určeno primárně na základě účelu daného VE.*  
+*Nejvhodnější output zařízení by mělo být určeno primárně na základě účelu daného VE.*  
 
 
 ## SW
-CAD, GIS, 3D graphics - engines, photogrametry, web technologies
+CAD, GIS, 3D graphics - engines, photogrammetry, web technologies
 ### Desktop
 CAD -> 3D modeling software / GIS modelling (less detailed) -> game engines 
 viz. tab. https://gistbok.ucgis.org/bok-topics/virtual-and-immersive-environments
 ### Web
-Z výpočetního hlediska jsou na webu publikovány spíše jednodušší a menší 3D vizualizace, které není možné považovat přímo za imerzivní. Dříve standard VRML je nahrazován technologiemi jako jsou [[3D Tiles]] [[glTF]]  . Dříve 3d vizualizace závisela na pluginech do daného prohlížeče. Dnes se 3D vizualizace staví na HTML5 a WebGL. (three.js, X3DOM, XML3D, SpiderGL). O kompatiblitu webových technologií a VR se stará dříve WebVR dnes WebXR framework. 
+Z výpočetního hlediska jsou na webu publikovány spíše jednodušší a menší 3D vizualizace, které není možné považovat přímo za imerzní. Dříve standard VRML je nahrazován technologiemi jako jsou [[3D Tiles]] [[glTF]]  . Dříve 3d vizualizace závisela na pluginech do daného prohlížeče. Dnes se 3D vizualizace staví na HTML5 a WebGL. (three.js, X3DOM, XML3D, SpiderGL). O kompatiblitu webových technologií a VR se stará dříve WebVR dnes WebXR framework. 
 
 
 # ch05 - Možné využití

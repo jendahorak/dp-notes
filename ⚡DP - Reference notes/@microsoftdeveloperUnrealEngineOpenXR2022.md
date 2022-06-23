@@ -47,3 +47,5 @@ Action based - Input for application - click on mouse/controler
 
 Description of current hardware - binding actions to specific buttons - **Action mapping**
 After specifing actions to specific OpenXRRuntime finds interaction profile that best matches and binds it
+
+

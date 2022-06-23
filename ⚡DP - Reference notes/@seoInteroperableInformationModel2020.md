@@ -6,13 +6,15 @@ year: 2020
 URL:  https://doi.org/10.1080/13658816.2019.1706739
 ZOTERO: [See in Zotero](zotero://select/items/@seoInteroperableInformationModel2020) 
 # Interoperable information model for geovisualization and interaction in XR environments
+
+
 # Přínos pro DP
-Práce detailně rozebírá informační model pro geovizualiace v XR prostředích. Na konceptuální úrovni představuje způsoby řešení integrace jednotlivých vrstev potřebných pro tvorbu aplikace (datové, interakční, vizualizační). Předstvený model je vystavěn na základě webových technologíí a zažitých postupů za účelem udržení interoperability. Z tohoto důvodu představuje práce hodnotný zdroj z hlediska architektury aplikace. 
+Práce detailně rozebírá informační model pro geovizualiace v XR prostředích. Na konceptuální úrovni představuje způsoby řešení integrace jednotlivých vrstev potřebných pro tvorbu aplikace (datové, interakční, vizualizační). Představený model je vystavěn na základě webových technologií a zažitých postupů za účelem udržení interoperability. Z tohoto důvodu představuje práce hodnotný zdroj z hlediska architektury aplikace.  Samotný představený model není dotažený do funkční implementace, tudíž není vhodný pro další užití. 
 
 
 # Abstrakt
 # ch01 - Úvod
-Práce představuje koncept Digital Earth (DE) a následně představuje termín geo-prohlížeč. Dále práce představuje řadu geoprohlížečů v pořadí od 2D zobrazní přes 3D až po AR. Práce zdůrazňuje fakt, že všechny zmíněné aplikace jsou technicky vertikálně interoperabilní - integrované a to přes obsah, aplikaci po "domain-specific" UX.
+Práce představuje koncept Digital Earth (DE) a následně představuje termín geo-prohlížeč. Dále práce představuje řadu geoprohlížečů v pořadí od 2D zobrazení přes 3D až po AR. Práce zdůrazňuje fakt, že všechny zmíněné aplikace jsou technicky vertikálně interoperabilní - integrované a to přes obsah, aplikaci po "domain-specific" UX.
 - aplikace by měli chtít interakci s běžným uživatelem
 
 ## obsah
@@ -24,28 +26,33 @@ Práce představuje koncept Digital Earth (DE) a následně představuje termín
 
 # ch02 - Related work
 *Interoperable content model for digital earth*
-- nedostatek ID v tradičních OGC ML
+- nedostatek v tradičních OGC ML - (GML, KML, CityGML) - nemají outside of application ID
 - modelování ve VR -> deklarativní metody - VRML - 1. web-based 3D format - X3D - následník 
-- Declarative 3D for the Web Architecture Community Group - přidání interkativní high-level  deklarativní 3D objekty jakou součást HTML dokumentu -- Mozzila -- Aframe
-- A-frame -- entity component system 
-Výše zmíněné technologie a přístupy jsou náročné na implementaci v případě dat reálného světa (location based).
+- Declarative 3D for the Web Architecture Community Group - přidání interkativní high-level  deklarativní 3D objekty jakou součást HTML dokumentu -- Mozzila -- Aframe 
+- A-frame -- entity component system  - Výše zmíněné technologie a přístupy jsou náročné na implementaci v případě dat reálného světa (location based).
 
 Většina - "location-based" AR content specifications jsou vytvořeny na základě OGC standardu KML-ARML-KARML-ARML 2.0
 - specifické tagy pro dané prohlížeče jako rozšíření - vztahy mezi geolokací a augmentací reality 
 
 Přístup skrze principy sémantického webu - integrace dat z různých datových zdrojů do kontextuální AR systém.
 
-AR a VR je možné reprezentovat v rámci jednoho prostředí - nejdříve koncept virtuálního kontinua, které reprezentuje MR (mixed reality) - dále přišel XR koncept jako extenze MR - Khronos Group -  OpenXR - APIs pro přístup všech různých XR vstupních zařízení - Mozzila přišla s WebVR specifikací - nyní nahrazeno WebXR - W3C spec
+AR a VR je možné reprezentovat v rámci jednoho prostředí - nejdříve koncept virtuálního kontinua [[@milgramTaxonomyMixedReality1994]], které reprezentuje MR (mixed reality) - 
+
+Dále přišel XR koncept jako extenze MR - Khronos Group -  OpenXR - APIs pro přístup všech různých XR vstupních zařízení - Mozzila přišla s WebVR specifikací - nyní nahrazeno WebXR - W3C spec - [[@jonesWebXRDeviceAPI2017]]
 
 *Geo-tagged user-generated content on the Web*
 - VGI
 - georeferencovaná data ze sociálních sítí
 - VGE - jako nová generace nástrojů pro geografickou analýzu
 
+**VGE**
+[[@battyVirtualGeography1997]]  - Lin and Gong (2001) and Lin and Batty (2011)
+To bring geospatial content visualization to the 3D Web, the Web3D Consortium (2006) proposed a standards-based X3D geospatial specification and various X3D-based systems for DE representations have been proposed (Yoo and Brutzman 2009, Tilden et al. 2011, Herzig et al. 2013, Plesch and Mccann 2015). These systems use the X3D standard, but X3D is an XML-based standard, not a web standard. Seo et al. (2016c)
+
 # ch03 Design principles for the DE in XR environments
 * architektura DE aplikací dělena na - Data - Content - Application
-* u dřívějších aplikací ve všech vrstvách specifická implementace pro danou aplikaci - kritika vertiální integrace naproti integraci meziaplikační
-* Pro realizace DE v XR by měl informační mode lpodprovat in-situ uživatelskou interakci v XR prostředí.
+* u dřívějších aplikací ve všech vrstvách specifická implementace pro danou aplikaci - kritika vertikální integrace naproti integraci meziaplikační
+* Pro realizace DE v XR by měl informační mode podporovat in-situ uživatelskou interakci v XR prostředí.
 * Cíle designu:
 	* Interoperabilita - obsah vygenerovaný v jedné aplikaci by měl být interoperabilní s jinou,  přístup k obsahu bez potřeby dodatečných zásuvných modulů
 	* Otevřenost - kdokoliv by měl být schopen tvořit a editovat obsah bez předešlé (rozsáhlejší) znalosti technologie, obsah je uložen v dcentralizovaných rozšiřitelných (scalable) úložištích přístupných všem
@@ -64,7 +71,7 @@ Práce představuje porovnání existujících geovizualizačních aplikací s n
 
 Inf. model který práce přestavuje používá webové standardy
 - HTML - content representation 
-- accesed using URIs and rendered on the web
+- accessed using URIs and rendered on the web
 - JS pro in-situ interakci skrze HTML DOM
 
 # ch04 Information model of geographic XR interaction space
@@ -75,7 +82,7 @@ Podporuje požadavky existuijících  VR a AR prostředí
 3. information windows pro interaktivitu
 4. scene graph - VR rendering space
 
-V GXRIS autoři propojují místa a objekty v zájomovém prostoru pomocí vztahů. 
+V GXRIS autoři propojují místa a objekty v zájmovém prostoru pomocí vztahů. 
 1. Place - seamless combination of digital augemnted physical a  immersive virtual enviroment
 2. Object - věc v prostoru
 3. Annotation - atributy objektu popř. místa (place)
@@ -83,10 +90,12 @@ V GXRIS autoři propojují místa a objekty v zájomovém prostoru pomocí vztah
 [[inf-models.png]]
 
 ## Modelling
-Popis jendnotlivých prvků informačního modelu.
+Popis jednotlivých prvků informačního modelu.
 [[Pasted image 20220405092410.png]]
 
 ## User interaction
+Definuje možnosti interakce s jednotlivými úrovněmi abstrakce. 
+
 1. Pohyb uživatele
 2. Přímá interkace s některým z prvků (Place, Object, Annotation)
 
@@ -96,7 +105,7 @@ Typ uživatelské interakce závisí na XR prostředí. - viz. *state diagram*
 3. object-related: když je objekt viditelný, (detected, moved, missed aj.) 
 
 ## Webized content approach to geographic XR interaction space
-Způsob publikování informace na webu zajišťuje interkaci mezi prvky pomocí uri a HTML struktury popř. dodatečné informace v JSON. 
+Způsob publikování informace na webu zajišťuje interakci mezi prvky pomocí uri a HTML struktury popř. dodatečné informace v JSON. 
 GXRIS umožňuje organizaci, indezaci a vizualizaci LOD. Autoři představují concept sub-míst, kdy jsou místa, která jsou v zájmu uživatele dále dělena a je tím tvořena hierarchická struktura.
 
 **Deklarace Place, Obj. a Anotace**
@@ -110,3 +119,6 @@ GXRIS umožňuje organizaci, indezaci a vizualizaci LOD. Autoři představují c
 
 ![[Pasted image 20220405100139.png]]
 ![[Pasted image 20220405100146.png]]
+
+# Conclusion
+Information model based on web methodologies - interoperabilit and openness

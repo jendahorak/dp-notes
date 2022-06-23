@@ -16,21 +16,18 @@ XR - extended reality - běžněji zvažována pro praktické využití v urbán
 # ch01 - Intro
 Zde autoři představují moderní přístup k participativnímu územnímu plánování jakožto podnět k průzkumu WebXR technologie jakožto platformy pro tvorbu veřejnosti dostupných VGE. Dále článek stručně shrnuje zapojení XR do domény geografie a GIS. Popularitu VR podporují zmínkou o technologiích jako je *digital earth*, *digital twins*, *spatial computing*. Dále článek srovnává výhody a nevýhody tradičních "headset - only" a mobilních VR aplikací s WebXR přístupem.
 
-
-
 # ch02 - XR terminologie a dosavadní znalost
-
 ## Definice XR - AR - MR - VR
 VR - *an alternate world filled with computer-generated images*
-4 Is Virtuální reality
+4 Is Virtuální reality - 
 WebXR nepřináší nové typy popř. definice vizualizací a tvorby prostředí rozšířené reality, ale je nástrojem pro vytváření rozšířené reality ve webových prohlížečích. WebXR je hlavní stavební kámen tzv. immersive web movement za kterým stojí W3C Immersive Web Community Group. WebXR poskytuje platformě nezávislý framework umožňující implementaci pro AR a VR zařízení. Čímž umožňuje vytvořit aplikaci, která bude vhodná pro VR i AR. 
 
 ## XR v územním plánování a GIS
-Zde autoři zasazují XR do kontextu vužití z hlediska urbanního plánovaní a GIS expertýzy. Stručně popisují historii XR a následně jemenují různé případové studie, které se využitím nějaké úrovně XR zabývaly. Na závěr zmiňují problematiku spojenou s širší adopcí XR v praxi, za kterou považují nedostatečnou iniciativu produkce "dobrých" 3D modelů. 
+Zde autoři zasazují XR do kontextu využití z hlediska urbánního plánovaní a GIS expertízy. Stručně popisují historii XR a následně jmenují různé případové studie, které se využitím nějaké úrovně XR zabývaly. Na závěr zmiňují problematiku spojenou s širší adopcí XR v praxi, za kterou považují nedostatečnou iniciativu produkce "dobrých" (optimailizovaných) 3D modelů. 
 
 # ch03 - Metody
 1) Vytvoření WebXR aplikace s VR a AR případovými studiemi. 
-2) Testování na potenciálních uživatelých. 
+2) Testování na potenciálních uživatelích. 
 3) Data - 3D model města Poznaň. 
 
 ## WebApp
@@ -44,10 +41,10 @@ Renovace prostředí - 2D - přidány 3D modely pro dané body zájmu
 Google Earth data
 
 ## Software
-Blender - BlenderGIS  - glTG format
+Blender - BlenderGIS  - glTF format
 
 ## Testování
-Autoři testovali použitelnost na nereprezentativním vzorku 15 lidí, kteří s konceptem územního plánování byly profesně obeznámeni (architekti, urbanisté - studenti, GIS specialisté). Každá z aplikací obsahovala určitý jednoduchý úkol. Průběh testování byl pozorován na separátním zařízení. Následně po dokončení úkolů ve XR aplikacích vyplnili uživatelé dotazník a byl s nimi proveden rozhovor. Kvatitativně byli výsledky zpracovány pomocí [[Brook System Usability Scale]]
+Autoři testovali použitelnost na nereprezentativním vzorku 15 lidí, kteří s konceptem územního plánování byly profesně obeznámeni (architekti, urbanisté - studenti, GIS specialisté). Každá z aplikací obsahovala určitý jednoduchý úkol. Průběh testování byl pozorován na separátním zařízení. Následně po dokončení úkolů ve XR aplikacích vyplnili uživatelé dotazník a byl s nimi proveden rozhovor. Kvantitativně byli výsledky zpracovány pomocí [[Brook System Usability Scale]]
 
 # ch04 Výsledky
 V rámci dotazníku vyplňovaného po průchodu XR prostředím uživatelé ohodnotili zážitek na SUS (system usability scale) a vyplnili otevřené otázky na téma problémů aplikací a možného využití. Do výsledků jsou zahrnuty i poznámky získané z hlediska autorů práce při testování aplikací. Následně práce evaluuje získané výsledky. Podrobně porovnává jednotlivé aplikace mezi s sebou a identifikuje problematické aspekty. Aplikace byly vyhodnoceny jako vhodné pro využití v urbánním plánování. Z hlediska dalších využití XR byly nejlépe hodnoceny využití pro získání "sense of scale" a to především v oboru architektury. 
@@ -59,17 +56,13 @@ Práce dále hodnotí WebXR i z developerského hlediska a to poměrně kladně.
 - i základní aplikace jako tyto jsou použitelné a užitečné
 - autoři zmiňují že převážně kladné výsledky mohou být ovlivněny tím že participanti nebyli dříve s technologií XR seznámeni, tudíž kladná hodnocení plynula z novoty technologie a nikoliv ze způsobu provedení
 - pro tvorbu dostupných XR aplikací je vhodné zahrnout nějakou míru již známých konceptů (obraz tradiční mapy - aj.) za účelem familiarizace uživatele s prostředím. 
-- nové způsoby interakce a zapojení které XR nabízí nejou až tak vyžadované - budoucnost XR je více limitována tím na co je možné ji využít
-- limitace WebXR spočívá v simplicitě UI a nedostatku grafické optimalizace
-- při dalším vývoji je vhodné zaměřit se na jeden aspekt XR 
-
-
+- nové způsoby interakce a zapojení které XR nabízí nejsou až tak vyžadované - budoucnost XR je více limitována tím na co je možné ji využít
+- limitace WebXR spočívá v jednoduchosti UI a nedostatku grafické optimalizace
+- **při dalším vývoji je vhodné zaměřit se na jeden aspekt XR** 
 - práce hodnotí WebXR jako vhodné řešení pro rozšíření aktivit v oblasti územního plánování
 - za účelem jednodušší a více přístupné implementace této technologie studie vyzdvihuje potřebu širší integrace GIS dat a XR a webu
 - dále práce zmiňuje potřebu dalšího výzkumu v možnostech "XR systémů nové generace?" 
 - LOD 3D modelů na webu - práce diskutuje zda opravu vyšší LOR (level of realism) vede k vyšší imerzi a zda imerze není vázána také na určitý use-case (účel vizualizace, zadaný úkol aj.)
--  
-	- 
 
 
 
