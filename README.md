@@ -15,13 +15,11 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 ## **Nápady k řešení a případné otázky** - DP/DP - Otázky a nápady [link](https://github.com/jendahorak/dp-notes/blob/9f17aed4daa6ae1bcf2f5d1c1f84e2ce65260797/%E2%9A%A1DP/%E2%9A%A1DP%20-%20Ot%C3%A1zky%20a%20n%C3%A1pady.md)
 
 # Co právě probíhá?
-
 - rešerše literatury ze zadání a na ní navazujících konceptů
 - průchod komplexním JavaScript kurzem a "testování" daných knihoven a API
 - souhrn (rešerše technologií - typologie atd.)
 - souhrn použitelných dat
 
 # Co zatím je hotovo ?
-
-- základní osobní přehled o technologiích
 - základní rozepsání postupu vypracování
+- základní znalost ESRI technologí a postupů pro publikaci na webu a pomocí herních enginů
