@@ -2,7 +2,8 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 
 # Hlavní dokumenty
 
-**Seznam anotovaných zdrojů (neobsahuje videa a kurzy)** - DP/DP - Rešerše
+[reserse](https://github.com/jendahorak/dp-notes/tree/main/%E2%9A%A1DP%20-%20Reference%20notes)
+**Seznam anotovaných zdrojů (neobsahuje videa a kurzy)** - DP/DP - Rešerše - 
 
 **Záznamy jednotlivých publikací a zdrojů** - DP - Reference Notes
 
