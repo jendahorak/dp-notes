@@ -3,7 +3,7 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 # Hlavní dokumenty
 
 
-**Seznam anotovaných zdrojů** - DP/DP - Rešerše - [link](https://github.com/jendahorak/dp-notes/blob/1dd5bf5efe3c2dd906339b6676446749e0996a2b/%E2%9A%A1DP/%E2%9A%A1%20DP%20-%20Re%C5%A1er%C5%A1e.md)
+##**Seznam anotovaných zdrojů** - DP/DP - Rešerše - [link](https://github.com/jendahorak/dp-notes/blob/1dd5bf5efe3c2dd906339b6676446749e0996a2b/%E2%9A%A1DP/%E2%9A%A1%20DP%20-%20Re%C5%A1er%C5%A1e.md)
 
 **Záznamy jednotlivých publikací a zdrojů** - DP - Reference Notes [link](https://github.com/jendahorak/dp-notes/tree/main/%E2%9A%A1DP%20-%20Reference%20notes)
 
