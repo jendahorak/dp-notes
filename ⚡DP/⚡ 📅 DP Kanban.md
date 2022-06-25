@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Virtuální realita
 - [ ] Rešerše technologíí - <br>- [ ] jak je na tom X3D a HTML5<br>- [ ] webgl vývoj - WebGL Earth<br>- [ ] openlayers a webgl?<br>- [ ] najít nějaký seznam - 3D frameworků<br>- [ ] vycházet z W3C standardů<br><br>XR runtimes? - Steam, Meta, Microsoft Mixed Real.
 - [ ] Projít si dosavadní emaily
 - [ ] Napsat email o Three.js kurz
@@ -19,8 +20,8 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-24]]
-- [ ] Dočíst [[@butcherVRIAWebBasedFramework2021]]
+- [ ] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-26]]
+- [ ] Dočíst [[@butcherVRIAWebBasedFramework2021]] <br>Zjistit zda uz je podpora pro souř. systemy - je to aplikovatelný na geografii?
 
 
 ## Completed

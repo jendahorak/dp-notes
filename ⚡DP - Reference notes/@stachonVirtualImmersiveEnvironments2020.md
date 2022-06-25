@@ -10,7 +10,7 @@ TAGS:
 # Virtual and Immersive Environments
 
 # **#TODO**s
-- [ ] vytahat literaturu o využití
+- [x] vytahat literaturu o využití
 - [ ] vypsta hw technologie
 - [ ] vypsat sw technologie do tabulky ohodnotit, které stojí za to použít
 - [ ] data?
@@ -106,3 +106,10 @@ Z výpočetního hlediska jsou na webu publikovány spíše jednodušší a men�
 Článek zde řeší primárně vnímání terénu a emergency management. 
 
 
+
+-   Discuss the meanings and relationships of “virtual” and “augmented” environments as it relates to virtual reality.
+- -   Compare and contrast the relative advantages of different immersive display, processing, and output systems used for cartographic visualization (e.g., CAVEs, HMDs, etc.).
+- -   Explain how virtual and immersive environments become increasingly more complex as we progress from non-immersive pseudo 3D environments to stereoscopic, real 3D, fully immersive environments.
+- -   Explain the principles of virtual environments according to MacEachren’s four “I”s: immersion, interactivity, information density, and intelligence of the displayed objects.
+- -   Explain the principles of virtual environments according to MacEachren’s four “I”s: immersion, interactivity, information density, and intelligence of the displayed objects.
+- -   Describe the hypothetical use case application of an IVEs for a given domain (e.g., medicine, manufacturing , education, culture, and sports.

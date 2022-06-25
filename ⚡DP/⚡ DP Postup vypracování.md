@@ -27,9 +27,11 @@ Jaké existují SW (hlavně web) technologie pro XR?
 - Vizualizace, rendering na webu - vybrat knihovnu (three, babylon, cesium, aframe atd.)
 - Způsob předzpracování dat ?
 	- GIS -> Web (QGIS - QGIStothreejs, ESRI API for JS,)
-	- GIS + graf. software + game enginy ( Unity (C#?), Maptiler - World Creator, Blender - OSM aj. GIS a neGIS data (3D model brna - KAM?)
+	- GIS + graf. software + game enginy - wasm export - webdeployment ( Unity (C#?), Maptiler - World Creator, Blender - OSM aj. GIS a neGIS data (3D model brna - KAM?)
+	- GIS - 3D modelling - Web (VRIA, Aframe, Threejs atd.)
 Jsou vybrané aplikace vhodné pro potřeby kartografie - geoinformatiky?
 - Jsou vybrané aplikace vhodné pro vlastní use-case
+- Hlavní požadavek - **GEOGRAFICKÁ data**
 
 ### ToDo
 - [ ] koncept rozšířené reality -- stručné textové zpracování
@@ -50,7 +52,9 @@ https://docs.google.com/spreadsheets/d/1daRg5jo2H6Z3chwf-ZCmyoM8zfnfrb1Yx4x3YoZp
 	- vývojová: náročnost na tvorbu 
 	- softwarová: jak moc aktuální daná technologie je, zda má podporu a bude mít podporu  podpora napříč prohlížeči (*rešerše jader prohlížečů - analýza podpory pro jednotlivé technologie (knihovny, api atd.*) volně dostupná?
  2) Kartografická:
-	 - je daná technologie vhodná pro danou aplikaci v geografii/kartografii - bude záležet na specifikaci aplikační oblasti a vizualizace  
+	 - je daná technologie vhodná pro danou aplikaci v geografii/kartografii - bude záležet na specifikaci aplikační oblasti a vizualizace  - DATA
+
+
 
 ## K02 - Praktické porovnání konkrétních technologií na různých hardwarových a softwarových platformách 
 **Otázky**

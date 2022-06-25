@@ -93,7 +93,119 @@ VRIA is build as to provide support for contemporary approaches of crating vis. 
 VRIA is similar to Webstrates - Vistrates 
 
 # VISUALIZATION CREATION WORKFLOW
+- starting assumption - dataset for visualisation - JSON or CSV
+![[Pasted image 20220624104713.png]]
+
+## VRIA Builder - Beginners
+- non-programmers
+- packaged with VRIA Node.js package
+- learning grammar of VRIA
+- rapid protoyping and iterative developement
+- GUI wrapper for VRIA scenes
+- browse gallery of example plots 
+
+## Non WebVR devs
+- new React project - A-Frame scens
+- config files can be written 
 
 
+# The framework
+![[Pasted image 20220624105522.png]]
+- browser acts as a rendering engine - WebVR manages the interaface with HMD - or non immersive displays - WebGL handels hardware acceleration - 3D managed by Three.js and wrapped by Aframe - on top UI controled by React and D3
+- nodejs module written in React and Aframe
+- Aframe - entity component framework that provides declarative, extensible and composable structure to Three.js
+- Three uses canvas, SVG of WebGL as a rendering engines and features a scene-graph, cameras, navigation modes, shaders and material support.
+- VRIA thru Aframe supports all major HMDs - 6 degrees of freedom
+- More importantly - Aframe exposes DOM scene graph which is used by React to update only the parts of scene that  require rerendering.  
+- Searching, modifying, adding and removing nodes from HTML DOM are very fast - repainting large parts of the DOM tree is expensive
+- React uses *virtual DOM* - to calculate difference in the HTML DOM berfore and after a change - so only affected nodes get rerendered. 
+
+## How does it work
+- dataset + vis. config. file => immersive visualization 
+- ![[Pasted image 20220624110527.png]]
+1. interpretation of config file
+2. mapping of data to graphical marks and their visual encoding channels
+3. mappings are passed thru renderer which constructs the vis. - UI controls - axes and legends
+
+config interpetation and data mapping happens at runtime - real time respond - details on demand
+
+## Architecture
+NodeJS module that exposes React component of the same name plus an API for extended func. 
+Exact  architecture is up to user - it doesnt have to be written in react 
+It can be integrated in different kinds of applications  as long as it makes use of Aframe scenes to present a vritual enviroment ini which the visualisations can be placed
+![[Pasted image 20220624111350.png]]
 
 
+**vis config**
+- dataset, type of graphical mark to use and set of visual encoding channels which ap to individual data points (x,y,z, color, opacity etc.)
+- in JSON file or as  JS module
+- custom can be created with Aframe and VRIA API
+
+## VRIA API
+- sufficient built in flexibility to design basic charts for many differnet applications
+- more customisation? - ability to customize axies, titles, legends and UI controls thru vis config
+- custom marks or interaction -> VRIA API 
+- any primitive shapes, models, animation and any physics based UI controls (buttons, sliders atd.) can be created with Afreame and then integrated into vis. via API and *vis config*. 
+- API reports current state of each vis. including all current visible data points
+- usefull to integrate other tools
+- data transofrmations can be implemented from this data with existing libarries
+
+## Interaction mech.
+- A frame provides progresive enhancement
+- should work on all devices
+- *selection*, *filetering*, *detail on demand* - facilitated through a set of interaction types which can be selectively enabled or disabled via the *vis config*
+- brushing and linking
+
+## Performance and scalability
+- most challanging to maintain FPS
+  If frame budget is exceeded the browser is unable to render a new frame which results in a lost fram, leading to uncomfortable VR exp and cybersikness
+  optimisation is necessary
+- labeling can have impact on render speeds - VRIA uses Signed Distance Field fonts - crisp edges with good perforamance
+- performance opts. incorporated at the React level and are intended to provide fine control on when the componet should be updated.
+- *shouldComponentUpdate*
+- opts. in Three level - reuse and emrgin of object geometries to save on memory and the number of draw calls per frame
+- complex scene - chppines - jank - "debounce" - limiting the rate at which a funciton can be triggered. Batching computations over multiple frames and only render the result once. 
+
+# UseCases
+## cartesian plots
+- simple cartesian plots - mapping data fields to x,y,z  in vis. config
+
+## Interaction
+- selectively enabled or disabled - in config file - selection and filtering tools
+- new interaction thru VRIA API
+
+##  Assets - Embeded visualisations
+A-frame assets - upon which data can be embeded
+What assets:
+- Aframe primitives
+- models
+- combination of those
+
+
+## Linked views and custom marks
+Allows for one selection be linked to another
+- linking is done via the *vis config views array*
+- mark type and and encoding channels
+
+## Multiple users
+Support for colaborative enviromets - real time interaciton - can be integrated with existing JS networking libraries to offer func. 
+- Aframe component - WebRTC and WebSockets
+
+
+# Limitations and future work
+*Vis. types* - Cartesian plots  - other geographical systems **#TOOD** 
+*Data model*- tabular JSON or CSV - next work - hierarchical, network , relational data models - node linked diagrams - GeoJson TopoJSON
+*UX* - 
+*Visual Vocab. and Immersive Analytics* - suitable vocab. for VR/MR worlds that facilitates visualisation pipelinie. 
+*Future dev* - aggregation, binning and other more advanced filtering operations, build vis inside VR
+*XR* - 
+
+# Lessons
+3 years from simple, single stand alone Aframe vis application of a 3D barchart to the current framework
+
+## Chalanges 
+1. constantly changing and updating libs and tech - bleeding edge WebXR
+2. XR is new - position sensing, computer vision, context awareness 
+
+# Conclusion
+Interest in Immersive data visualisation incerases - investigation of vis. techniques tailor-made for immersive 3D graphical enviromets. 
