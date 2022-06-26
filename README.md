@@ -1,26 +1,22 @@
-Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidianmd/obsidian-releases.git), který veškeré zápisy ukládá jako .md soubor. Mám jej propojen i s citačním manažerem zde je možné jednoduše uploadovat změny. Formátování je v dokumentech občas nesmyslné (používání [[]]) protože takto _Obsidian_ interně linkuje dané záznamy.
+Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidianmd/obsidian-releases.git), který veškeré zápisy ukládá jako .md soubor. Mám jej propojen i s citačním manažerem zde je možné jednoduše uploadovat změny. Formátování je v dokumentech občas nesmyslné (používání [[]]) protože takto _Obsidian_ interně linkuje dané záznamy. 
 
 # Hlavní dokumenty
 
-## **Seznam anotovaných zdrojů** - DP/DP - Rešerše - [link](https://github.com/jendahorak/dp-notes/blob/1dd5bf5efe3c2dd906339b6676446749e0996a2b/%E2%9A%A1DP/%E2%9A%A1%20DP%20-%20Re%C5%A1er%C5%A1e.md)
+**Seznam anotovaných zdrojů (neobsahuje videa a kurzy)** - DP/DP - Rešerše
 
-## **Záznamy jednotlivých publikací a zdrojů** - DP - Reference Notes [link](https://github.com/jendahorak/dp-notes/tree/main/%E2%9A%A1DP%20-%20Reference%20notes)
+**Záznamy jednotlivých publikací a zdrojů** - DP - Reference Notes
 
-## **Road map vypracování (brain storming možného postupu a problémů které mohou nastat)** - DP/DP Postup vypracování - [link](https://github.com/jendahorak/dp-notes/blob/9f17aed4daa6ae1bcf2f5d1c1f84e2ce65260797/%E2%9A%A1DP/%E2%9A%A1%20DP%20Postup%20vypracov%C3%A1n%C3%AD.md)
+**Road map vypracování (brain storming možného postupu a problémů které mohou nastat)** - DP/DP Postup vypracování
 
-## **Nápady k řešení a případné otázky** - DP/DP - Otázky a nápady [link](https://github.com/jendahorak/dp-notes/blob/9f17aed4daa6ae1bcf2f5d1c1f84e2ce65260797/%E2%9A%A1DP/%E2%9A%A1DP%20-%20Ot%C3%A1zky%20a%20n%C3%A1pady.md)
+**Nápady k řešení a případné otázky** - DP/DP - Otázky a nápady
+
 
 # Co právě probíhá?
-
-- rešerše literatury ze zadání a na ní navazujících konceptů
-- průchod komplexním JavaScript kurzem a "testování" daných knihoven a API
-- souhrn (rešerše technologií - typologie atd.)
-- souhrn použitelných dat
-- orientace v "jak na to" - engine / web
+- rešerše navazující literatury - VR - případové studie VR na webu - technologie grafiky na webu 
+- průchod komplexním JavaScript kurzem 
+	- testování Three.js - videokurz
 
 # Co zatím je hotovo ?
-
-- zpracovaná literatura ze zadání
+- základní osobní přehled o technologiích
 - základní rozepsání postupu vypracování
-- základní znalost ESRI technologí a postupů pro publikaci na webu a pomocí herních enginů
-- výčet potřebné liteatury
+- seznam literatury

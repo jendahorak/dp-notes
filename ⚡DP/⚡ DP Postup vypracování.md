@@ -34,7 +34,7 @@ Jsou vybrané aplikace vhodné pro potřeby kartografie - geoinformatiky?
 - Hlavní požadavek - **GEOGRAFICKÁ data**
 
 ### ToDo
-- [ ] koncept rozšířené reality -- stručné textové zpracování
+- [ ] koncept rozšířené reality -- stručné textové zpracování **!!**
 - [ ] XR na webu - technologie, vývoj aktuální stav, specifika, předešlé případové studie -- tabulky kompatibilit HW, prohlížeče, data
 - [ ] Zvolit tech stack -- textové odůvodnění zvolených technologií vhodných pro daný use-case
 
@@ -130,6 +130,29 @@ Na základě zvolené aplikační oblasti definovat reprezentativní testovací 
 ## K05 - Diskuse zjištěných výsledků a závěr 
 
 
+
+
+
+
+
+# Emaily
+Co se týká formy, tak záleží na tom co bude zrovna řešit, pokud půjde o  
+text práce, např. rešerši, bude vhodnější psaná forma. Pokud budete řešit něco z praktické části nebo budete mít spíše dotazy, tak bude stačit osobně (ústně).
+
+Co se HMD týká tak jsem počítal primárně s využitím vybvení, které je na GÚ (v  
+laboratoři VGE). Případné zapůjčení domluvím s dr. Stachoněm. Vzhledem k tomu,  
+že nevíte jaké zařízení tam máme k dispozici, tak bycom měli v rámci předmětu  
+3D modelování udělat "exkurzi" (spolužáci na tom budu tuším podobně jako  
+vy)
+
+Myslím, že by jste se mohl podívat také na určité další web. technologie, které  
+jsem v úterý zmiňoval na přednášce.
+Co se vhodného datového formátu týká, tak se mi momentálně jako nejvhdonější  
+jeví rovněž zmiňované glTF. Blender do něj určitě umožňuje export. Blender má  
+také rozšíření BlenderGIS, pro načítání prostorových dat. Nebo lze do glTF  
+exportovat z plugi-in Qgis2threejs a tyto pak dále upravovat, kupříkladu v tom  
+Blenderu. Ale určitě jsou i další cesty a způsoby, jak data zpracovat do cílové  
+podoby.
 
 
 

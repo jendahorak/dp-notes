@@ -6,22 +6,19 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Virtuální realita
-- [ ] Rešerše technologíí - <br>- [ ] jak je na tom X3D a HTML5<br>- [ ] webgl vývoj - WebGL Earth<br>- [ ] openlayers a webgl?<br>- [ ] najít nějaký seznam - 3D frameworků<br>- [ ] vycházet z W3C standardů<br><br>XR runtimes? - Steam, Meta, Microsoft Mixed Real.
-- [ ] Projít si dosavadní emaily
-- [ ] Napsat email o Three.js kurz
+- [ ] Rešerše technologíí - <br>- [ ] jak je na tom X3D a HTML5<br>- [ ] webgl vývoj - WebGL Earth<br>- [ ] openlayers a webgl?<br>- [ ] najít nějaký seznam - zobrazování 3D grafiky na webu<br>- [ ] vycházet z W3C standardů<br><br>XR runtimes? - Steam, Meta, Microsoft Mixed Real.
 - [ ] Porovnat projekty 3D katastru - Holandsko x Česko - CityJSON
-- [ ] [[@stachonVirtualImmersiveEnvironments2020]] - vytahat literaturu
 - [ ] Software:<br>- Stáhnout FME<br>- city engine licence na univerzitě, trial licence ??
 - [ ] Projít #TODO a vypsat je sem
+- [ ] Napsat email o Three.js kurz #noturgent
 - [ ] #noturgent Vytřídit uložené odkazy z KAM
 - [ ] #noturgent Microsoft Azure WebDev @{2022-03-17}
 
 
 ## In Progress
 
-- [ ] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-26]]
-- [ ] Dočíst [[@butcherVRIAWebBasedFramework2021]] <br>Zjistit zda uz je podpora pro souř. systemy - je to aplikovatelný na geografii?
+- [ ] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-27]]
+- [ ] [[@butcherVRIAWebBasedFramework2021]] <br>Zjistit zda uz je podpora pro souř. systemy - je to aplikovatelný na geografii?
 
 
 ## Completed
@@ -31,9 +28,12 @@ kanban-plugin: basic
 - [x] stahnout članek od Hermana - @{2022-03-05}
 - [x] Vypisky z prezentaci z 3D viz. @[[2022-05-13]]
 - [x] Precist Literaturu od Hermana
+- [x] Dočíst [[@butcherVRIAWebBasedFramework2021]]
 - [x] Založit Word - začít psát rešerši a úvod
 - [x] Zeptat se báry na word bakalarky.
+- [x] Projít si dosavadní emaily
 - [x] Udělat soupis zadání a předběžnou osnovu práce.<br> @[[2022-04-04]] @@{13:33}
+- [x] [[@stachonVirtualImmersiveEnvironments2020]] - vytahat literaturu
 - [x] Vypujči si knihu o virtualni realite
 - [x] Kouknout na blender gis [[Globalni mapovani - 3D - data]] @{2022-03-06}
 - [x] nacist node @[[2022-03-31]]

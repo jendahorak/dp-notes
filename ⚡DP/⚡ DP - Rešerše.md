@@ -52,8 +52,6 @@ status/tags:
 
 # 3D
 - [x] [[@dusekVIZUALIZACEPROSTOROVUCHDAT]]
-- [x] [[@hermanModerniKartografickeMetody2011]]
-- [x] [[@hermanVizualizace3DModelu2014]]
 - [ ]  [ ] [[@trubkaWebbased3DVisualisation2016]]
 - [ ] [[@matUsingGameEngine2014]]
 - [ ]  [ ] [[@stalsStateXRResearch2020]]
@@ -72,9 +70,10 @@ status/tags:
 - [ ] [[@matUsingGameEngine2014]]
 - [ ] [[@ugwitzBuildingVirtualCartographic2021]]
 - [ ] [[@buyuksalih3DMODELLINGVISUALIZATION2017]]
+- [x]  [[@keilCreatingImmersiveVirtual2021 - Creating Immersive Virtual Environments Based on Open Geospatial Data and Game Engines]]
 ## Web
 - viz. VRIA - above.
-- [ ] [[@keilCreatingImmersiveVirtual2021]] - **read**
+
 
 
 # Usecases
@@ -104,7 +103,6 @@ status/tags:
 - [ ] [[@robertsVisualizationDesktopNext2014]]
 
 
-
 # XR
 - [ ] [[@sermetGeospatialVRWebbasedVirtual2021a]]
 - [ ] [[@leeXRCollaborationVirtual2021]]
@@ -112,6 +110,8 @@ status/tags:
 - [ ] [[@maclntyreThoughtsFutureWebXR2018]]
 
 # Studentské práce
+- [x] [[@hermanModerniKartografickeMetody2011]]
+- [x] [[@hermanVizualizace3DModelu2014]]
 - [ ] [[@cibulaVyvojInformacnehoSystemu2021]] - **read**
 - [x] [[@kvardaMoznostiNizkonakladovychProstredku2018]]
 - [ ] [[@kvardaVirtualniRealitaJako2020]]
@@ -119,6 +119,7 @@ status/tags:
 - [ ] [[@leitnerVyvojVybranehoNastroje2020]]
 - [ ] [[@chovanecKompozicniPrvky3D2019]]
 - [ ] [[@shanelWebovaPublikaceAtlasu2016]]
+- [ ] 
 - [ ] 
 
 # Testing
@@ -132,6 +133,10 @@ status/tags:
 
 
 # Videa
+[[@confreaksChainReact20182022 - Chain React 2018_ WebXR_ A New Dimension For The Web by Michaela Lehr]]
+- [x] [[@googlechromedevelopersBuildingVRAR2022 - Building VR and AR experiences using HTML _ HTTP 203]] #important
+- [x] [[@fireshipWebGL3DGraphics2021]]
+	- [x] [[@IntroModernOpenGL - An intro to modern OpenGL. Chapter 1_ The Graphics Pipeline]]
 - [x] [[@microsoftdeveloperUnrealEngineOpenXR2022]] - Unreal and OpenXR
 - [x] [[@microsoftdeveloperUpdatesOpenXRMixed2022]] - # Updates on OpenXR for Mixed Reality
 - [x] [[@microsoftdeveloperUnityXRInteraction2022]] - toolkit for XR apps
@@ -143,6 +148,8 @@ status/tags:
 - [ ] [[@currankelleherDatavis2020Episode2020]]
 - [x] [[@forrestknightEverythingYouNEED2022]]
 - [ ] [[@codedamnHowStructureFiles2022]]
+- [x] [ ] [[@wordpressBorekBernardGit2017 - Borek Bernard_ Git in 10 Minutes]]
+- [x] [[@digitalsolutionsPHPVsNode2019 - PHP vs. Node.js + TypeScript - Borek Bernard]]
 
 # Kurzy
 - [ ] [[@ComputerScienceVirtual]]

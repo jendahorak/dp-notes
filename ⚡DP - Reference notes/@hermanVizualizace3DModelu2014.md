@@ -481,7 +481,7 @@ Specifikace, popis vlastností a funkcí, které by měl výsledný systém mít
 # Volba technologie
 *autor uvádí podrobnou analýzu dostupných technologií a následně metodicky vybírá X3DOM pro praktickou implementaci*
 
-2013 - 13WebGL aplikací
+2013 - 13 WebGL aplikací
 Testovací případy - geovizualizace - modely terénu, glóby, virtuální glóby
 Správnost zobrazení souzena v prohlížeči Google Chrome 
 - manipulace
