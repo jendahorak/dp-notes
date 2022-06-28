@@ -17,13 +17,13 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-27]]
 - [ ] [[@butcherVRIAWebBasedFramework2021]] <br>Zjistit zda uz je podpora pro souř. systemy - je to aplikovatelný na geografii?
 
 
 ## Completed
 
 **Complete**
+- [x] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-28]] @@{11:35}
 - [x] Napsat Konečnýmu o knihu na virtuální realitu @{2022-02-25}
 - [x] stahnout članek od Hermana - @{2022-03-05}
 - [x] Vypisky z prezentaci z 3D viz. @[[2022-05-13]]

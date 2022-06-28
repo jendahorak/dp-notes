@@ -101,10 +101,11 @@ status/tags:
 - [ ] [[@thonyStorytellingInteractive3D2018]]
 ## VR
 - [ ] [[@robertsVisualizationDesktopNext2014]]
+- [ ] [[@coltekinUSABILITYUSEFULNESS3D2016 - ON THE USABILITY AND USEFULNESS OF 3D (GEO)VISUALIZATIONS &ndash; A FOCUS ON VIRTUAL REALITY ENVIRONMENTS]]
 
 
 # XR
-- [ ] [[@sermetGeospatialVRWebbasedVirtual2021a]]
+- [ ] [[@sermetGeospatialVRWebbasedVirtual2021a]]  **read**
 - [ ] [[@leeXRCollaborationVirtual2021]]
 - [ ] [[@yooInteroperableInformationModel2020]]
 - [ ] [[@maclntyreThoughtsFutureWebXR2018]]
@@ -150,6 +151,7 @@ status/tags:
 - [ ] [[@codedamnHowStructureFiles2022]]
 - [x] [ ] [[@wordpressBorekBernardGit2017 - Borek Bernard_ Git in 10 Minutes]]
 - [x] [[@digitalsolutionsPHPVsNode2019 - PHP vs. Node.js + TypeScript - Borek Bernard]]
+- [ ] [[@theo-ping.ggWhyUseNextJS2022 - Why I Use NextJS For ALL My Backends]]
 
 # Kurzy
 - [ ] [[@ComputerScienceVirtual]]
