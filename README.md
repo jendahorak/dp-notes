@@ -12,11 +12,18 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 
 
 # Co právě probíhá?
-- rešerše navazující literatury - VR - případové studie VR na webu - technologie grafiky na webu 
-- průchod komplexním JavaScript kurzem 
-	- testování Three.js - videokurz
+- rešerše navazující literatury 
+	- VR 
+	- případové studie VR na webu 
+	- technologie grafiky na webu
+	- podrobné zaměření na aplikaci "Záměry" 
+		- vizualizace 3D města, architetury a územního plánování ve spolupráci s KAM
+- Requirement specification pro technologie 
+	- testování vhodnosti na základě splnění požadavků (funční / nefunkční)	
 
 # Co zatím je hotovo ?
 - základní osobní přehled o technologiích
 - základní rozepsání postupu vypracování
 - seznam literatury
+- rozhodnutí o zaměření (architektura / ÚP) - aplikace záměry
+
