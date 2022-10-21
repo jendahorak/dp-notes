@@ -12,9 +12,8 @@ Pro tvorbu zápisů používám software [_Obsidian_](https://github.com/obsidia
 
 
 # Co právě probíhá?
-- rešerše navazující literatury - VR - případové studie VR na webu - technologie grafiky na webu 
-- průchod komplexním JavaScript kurzem 
-	- testování Three.js - videokurz
+- rešerše
+- testování Three.js - videokurz
 
 # Co zatím je hotovo ?
 - základní osobní přehled o technologiích

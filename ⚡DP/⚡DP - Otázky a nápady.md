@@ -21,7 +21,8 @@ status/tags:
 
 
 # Poznámky
-
+## Systems and software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models
+https://www.iso.org/standard/35733.html
 
 # Problémy - co se musí vyřešit
 1) HW - kde sehnat testovací HMD - (děčín základní škola - i následné uživatelské testování) - **VGE laboratoř**

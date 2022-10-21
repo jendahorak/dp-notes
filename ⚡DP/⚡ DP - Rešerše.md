@@ -20,7 +20,6 @@ status/tags:
 # Literatura ze zadání
 - [x] [[@stachonVirtualImmersiveEnvironments2020]]
 	- [ ] [[@coltekinExtendedRealitySpatial2020]] **read**
-	- [ ] [[@biljeckiApplications3DCity2015]]
 	- [ ] [[@buchroithnerTrue3DCartographyCurrent2013]]
 	- [ ] [[@DigitalCulturalHeritage]]
 	- [ ] [[@herman3DWEBVISUALIZATION2015]]
@@ -38,7 +37,7 @@ status/tags:
 	- [ ] [[@halikChallengesConvertingPolish2018]] 
 	- [ ] [[@ManualDigitalEarth]] - Geospatial Information Visualization and Extended Reality Displays
 - [x] [[@rzeszewskiUsabilityWebXRVisualizations2021]] 
-- [x] [[@seoInteroperableInformationModel2020]] 
+- [x] [[@seoInteroperableInformationModel2020]]  -  **not good**
 - [x] [[@laksonoUtilizingGameEngine2019]]
 - [x] [[@butcherVRIAWebBasedFramework2021]] - 
 	- [ ] [[@butcherImmersiveAnalyticsWebVR]]
@@ -86,7 +85,6 @@ status/tags:
 - [ ] [[@julinCharacterizing3DCity2018]]
 - [ ] [[@bosUsingVirtualReality2021]]
 - [ ] [[@sermetVirtualAugmentedReality2020]]
-- [ ] [[@biljeckiApplications3DCity2015]]
 - [ ] [[@DigitalCulturalHeritage]]
 - [ ] [[@sasinkaCollaborativeImmersiveVirtual2019]]
 - [ ] [[@lokkaVirtualEnvironmentsMemory2018]]
@@ -111,6 +109,10 @@ status/tags:
 - [ ] [[@maclntyreThoughtsFutureWebXR2018]]
 
 # Studentské práce
+- [x] [[@plackovaVyuziti3DVizualizaci2022 - Využití 3D vizualizací v územním plánování]]
+	- [ ] [[@pinosAutomaticGeodataProcessing2020 - Automatic Geodata Processing Methods for Real-World City Visualizations in Cities_ Skylines]]
+	- [x] [[@judgeVisualizingPossibleFuture2020 - Visualizing a Possible Future_ Map Guidelines for a 3D Detailed Development Plan]] 
+	- [ ] [[@hermanUserIssuesInteractive2019a - User Issues of Interactive 3D Geovisualizations]]
 - [x] [[@hermanModerniKartografickeMetody2011]]
 - [x] [[@hermanVizualizace3DModelu2014]]
 - [ ] [[@cibulaVyvojInformacnehoSystemu2021]] - **read**
@@ -120,6 +122,7 @@ status/tags:
 - [ ] [[@leitnerVyvojVybranehoNastroje2020]]
 - [ ] [[@chovanecKompozicniPrvky3D2019]]
 - [ ] [[@shanelWebovaPublikaceAtlasu2016]]
+- [ ] [[@plackovaVyuziti3DVizualizaci2022 - Využití 3D vizualizací v územním plánování]]
 - [ ] 
 - [ ] 
 
