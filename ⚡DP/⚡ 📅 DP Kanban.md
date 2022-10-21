@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Zeptat se v práci na fáze vývoje budovy, záměru whatever - @[[2022-10-27]]
 - [ ] Rešerše technologíí - <br>- [ ] jak je na tom X3D a HTML5<br>- [ ] webgl vývoj - WebGL Earth<br>- [ ] openlayers a webgl?<br>- [ ] najít nějaký seznam - zobrazování 3D grafiky na webu<br>- [ ] vycházet z W3C standardů<br><br>XR runtimes? - Steam, Meta, Microsoft Mixed Real.
 - [ ] Porovnat projekty 3D katastru - Holandsko x Česko - CityJSON
 - [ ] Software:<br>- Stáhnout FME<br>- city engine licence na univerzitě, trial licence ??
@@ -13,6 +14,7 @@ kanban-plugin: basic
 - [ ] Napsat email o Three.js kurz #noturgent
 - [ ] #noturgent Vytřídit uložené odkazy z KAM
 - [ ] #noturgent Microsoft Azure WebDev @{2022-03-17}
+- [ ] Rešerše DONE - @[[2022-10-31]] - teorie napsána @[[2022-10-31]]
 
 
 ## In Progress

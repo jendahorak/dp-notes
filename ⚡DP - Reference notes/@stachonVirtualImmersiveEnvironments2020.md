@@ -105,8 +105,6 @@ Z výpočetního hlediska jsou na webu publikovány spíše jednodušší a men�
 # ch05 - Možné využití
 Článek zde řeší primárně vnímání terénu a emergency management. 
 
-
-
 -   Discuss the meanings and relationships of “virtual” and “augmented” environments as it relates to virtual reality.
 - -   Compare and contrast the relative advantages of different immersive display, processing, and output systems used for cartographic visualization (e.g., CAVEs, HMDs, etc.).
 - -   Explain how virtual and immersive environments become increasingly more complex as we progress from non-immersive pseudo 3D environments to stereoscopic, real 3D, fully immersive environments.

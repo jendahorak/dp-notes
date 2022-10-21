@@ -23,7 +23,7 @@ VR - *an alternate world filled with computer-generated images*
 WebXR nepřináší nové typy popř. definice vizualizací a tvorby prostředí rozšířené reality, ale je nástrojem pro vytváření rozšířené reality ve webových prohlížečích. WebXR je hlavní stavební kámen tzv. immersive web movement za kterým stojí W3C Immersive Web Community Group. WebXR poskytuje platformě nezávislý framework umožňující implementaci pro AR a VR zařízení. Čímž umožňuje vytvořit aplikaci, která bude vhodná pro VR i AR. 
 
 ## XR v územním plánování a GIS
-Zde autoři zasazují XR do kontextu využití z hlediska urbánního plánovaní a GIS expertízy. Stručně popisují historii XR a následně jmenují různé případové studie, které se využitím nějaké úrovně XR zabývaly. Na závěr zmiňují problematiku spojenou s širší adopcí XR v praxi, za kterou považují nedostatečnou iniciativu produkce "dobrých" (optimailizovaných) 3D modelů. 
+Zde autoři zasazují XR do kontextu využití z hlediska urbánního plánovaní a GIS expertízy. Stručně popisují historii XR a následně jmenují různé případové studie, které se využitím nějaké úrovně XR zabývaly. Na závěr zmiňují problematiku spojenou s širší adopcí XR v praxi, za kterou považují nedostatečnou iniciativu produkce "dobrých" (optimalizovaných) 3D modelů. 
 
 # ch03 - Metody
 1) Vytvoření WebXR aplikace s VR a AR případovými studiemi. 
