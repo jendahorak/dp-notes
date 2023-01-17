@@ -9,7 +9,7 @@ status:
 # Virtual Reality - LaValle
 
 # do DP
-- 
+Dobrý z obecného pohledu 
 
 
 
@@ -183,6 +183,28 @@ How much rays of light bend when entering or exiting a transparent material
 
 
 # The Physiology of Human Vision
+How large resolution to not see the pixels. 
+
+
+Because of rodes and cones we have scotopic vision (monochromatic) and photopic vision (trichromatic). Into scotopic mode it takes about 30 mins. Going into photopic vision it takes about 10mins.
+
+
+## Eye movement
+1. Saccades
+2. Smooth pursuit
+3. Vestibulo-ocular reflex
+	1. image stabilization
+4. Optokinetic reflex
+	1. train tracking
+5. Vergence - converging and diverging
+6. Microsaccades
+
+
+# Tracking
+## 2D and 3D orientation of the head
+
+
+
 
 
 
