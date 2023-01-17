@@ -4,18 +4,32 @@ status/tags:
 ---
 # [[⚡ DP - Rešerše]]
 
+# Path_to_docx
+"C:\Users\horin\Desktop\dp-git-upstream-new\dp-notes\Webova_virtualni_realita_DP_HORAK_git_version.docx"
+
 # Bible
+## VR
+- [ ] [[@jeraldVRBookHumanCentered2015 - The VR Book_ Human-Centered Design for Virtual Reality]]
+- [ ] [[@lavalleVirtualRealityLaValle2020 - Virtual Reality - LaValle]]
+- [ ] [[@pangilinanCreatingAugmentedVirtual2019 - Creating Augmented and Virtual Realities]] #read
+	- [x] [[@kubicekNOVEMAPOVETECHNOLOGIE2009 - NOVÉ MAPOVÉ TECHNOLOGIE V KARTOGRAFICKÉ KOMUNIKACI]]
+- [ ]  [[@shermanUnderstandingVirtualReality2019]]
 - [ ] [[@matherFoundationsSensationPerception2016]]
-- [ ] [[@marschnerFundamentalsComputerGraphics2021]]
+
+## GIS
 - [ ] [[@kresseSpringerHandbookGeographic2022]]
 - [ ] [[@bolstadGISFundamentalsFirst2019]]
 - [ ] [[@longleyGeographicInformationScience2015]]
 - [ ] [[@kempEncyclopediaGeographicInformation2007]]
+
+
+## computer graphics - se - web
+- [ ] [[@marschnerFundamentalsComputerGraphics2021]]
 - [ ] [[@zaraModerniPocitacovaGrafika2005]]
-- [ ] [[@shermanUnderstandingVirtualReality2019]]
 - [ ] [[@sommervilleSoftwareEngineering2016]]
-- [ ] [[@lavalleVirtualReality2020]]
 - [ ] [[@sackWebMapping2017]]
+
+
 
 # Literatura ze zadání
 - [x] [[@stachonVirtualImmersiveEnvironments2020]]
@@ -103,6 +117,7 @@ status/tags:
 
 
 # XR
+[[@khronosgroupOpenXRSpecification2022 - The OpenXR Specification]]
 - [ ] [[@sermetGeospatialVRWebbasedVirtual2021a]]  **read**
 - [ ] [[@leeXRCollaborationVirtual2021]]
 - [ ] [[@yooInteroperableInformationModel2020]]

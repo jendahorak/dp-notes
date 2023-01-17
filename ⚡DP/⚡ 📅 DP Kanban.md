@@ -6,26 +6,28 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Zeptat se v práci na fáze vývoje budovy, záměru whatever - @[[2022-10-27]]
 - [ ] Rešerše technologíí - <br>- [ ] jak je na tom X3D a HTML5<br>- [ ] webgl vývoj - WebGL Earth<br>- [ ] openlayers a webgl?<br>- [ ] najít nějaký seznam - zobrazování 3D grafiky na webu<br>- [ ] vycházet z W3C standardů<br><br>XR runtimes? - Steam, Meta, Microsoft Mixed Real.
 - [ ] Porovnat projekty 3D katastru - Holandsko x Česko - CityJSON
-- [ ] Software:<br>- Stáhnout FME<br>- city engine licence na univerzitě, trial licence ??
-- [ ] Projít #TODO a vypsat je sem
 - [ ] Napsat email o Three.js kurz #noturgent
+- [ ] Projít #TODO a vypsat je sem
 - [ ] #noturgent Vytřídit uložené odkazy z KAM
 - [ ] #noturgent Microsoft Azure WebDev @{2022-03-17}
-- [ ] Rešerše DONE - @[[2022-10-31]] - teorie napsána @[[2022-10-31]]
+- [ ] Rešerše DONE -  - teorie napsána                                              @[[2023-01-16]] @[[2023-01-18]]
+- [ ] Exporty z enginů do HTML
 
 
 ## In Progress
 
 - [ ] [[@butcherVRIAWebBasedFramework2021]] <br>Zjistit zda uz je podpora pro souř. systemy - je to aplikovatelný na geografii?
+- [x] Zeptat se v práci na fáze vývoje budovy, záměru whatever - @[[2022-12-28]]
+- [ ] Software:<br>- Stáhnout FME<br>- city engine licence na univerzitě, trial licence ??
 
 
 ## Completed
 
 **Complete**
 - [x] Rešerše základní literatury <br>- kouknout i do pdf složky - pretazene diplomky<br>[[⚡ DP - Rešerše]] @[[2022-06-28]] @@{11:35}
+- [x] Napsat metodiku podle unified modeling process - stahnout knizku - @[[2022-12-01]]
 - [x] Napsat Konečnýmu o knihu na virtuální realitu @{2022-02-25}
 - [x] stahnout članek od Hermana - @{2022-03-05}
 - [x] Vypisky z prezentaci z 3D viz. @[[2022-05-13]]

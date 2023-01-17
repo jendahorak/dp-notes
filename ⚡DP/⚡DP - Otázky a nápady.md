@@ -5,6 +5,7 @@ status/tags:
 # ✏ [[⚡DP - Otázky a nápady]]
 
 # Otázky
+- Jak psát "experience" - v češtině :D
 - Co je myšleno principy virtuální reality?
 	- 6 volností pohybu
 	- perspektivní projekce
